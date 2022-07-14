@@ -1,7 +1,7 @@
 <h2> Hey there 👋! I'm ABARNA.</h2>
 <h3> About Me 👨🏻‍💻</h3>
 
-Aspiring Data analyst from CIT pursuing Msc Decision and computing science with a keen interest in problem-solving,Machine learning and with an inquisitive interest in innovative technologies.I am currently looking for an 6 months internship in MAY 2022 .
+Aspiring Data analyst from CIT pursuing Msc Decision and computing science with a keen interest in problem-solving,Machine learning and with an inquisitive interest in innovative technologies.
 
 <h3>Tech Stack</h3>
 
